@@ -1,1 +1,1 @@
-# nets
+# nets - neural network
